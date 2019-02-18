@@ -1,3 +1,3 @@
 Clean House,low
-Dusting,medium
 Laundry,medium
+Vacuum,high

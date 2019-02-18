@@ -96,7 +96,6 @@ class ToDoList:
 #MAIN
 objFileName = "C:\_PythonClass\Assignment06\Todo.txt"
 clsToDoLst = ToDoList()
-2
 #Call File Reading Function
 clsToDoLst.ReadFile(objFileName)
 
